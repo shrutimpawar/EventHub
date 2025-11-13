@@ -32,7 +32,7 @@ import javafx.stage.Stage;
 public class UserSignUpPage {
 
     static final String PROJECT_ID = "event-hub-7033e";
-    static final String API_KEY = "AIzaSyBRUq__-ukWR0ZgoZBfombRkHpd9G_MMWA";
+    static final String API_KEY = "GOOGLE_API_KEY";
     Scene userSignUpScene;
     Stage UserSignUpStage;
     Scene signuploginscene, organizerSignUpScene, loginScene, MultipleSelectionScene;
@@ -325,3 +325,4 @@ public class UserSignUpPage {
     }
 
 }
+
