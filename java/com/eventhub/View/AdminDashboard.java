@@ -24,7 +24,7 @@
 // public class AdminDashboard{
 
 //     private final String PROJECT_ID = "eventhub-6ff68";
-//     private final String API_KEY = "AIzaSyCHO01TTU6mn5ZveXUzNE4DmHsiscoPEm4";
+//     private final String API_KEY = "GOOGLE_API_KEY";
 
 //     private ObservableList<User> userList = FXCollections.observableArrayList();
 //     private ObservableList<Organizer> organizerList = FXCollections.observableArrayList();
@@ -823,3 +823,4 @@ eventList.add(new Event(eventTitle, eventDate, venue, docId));
         public String getDocId() { return docId; }
     }
 }
+
